@@ -1,1 +1,25 @@
 /* Add CSS Styling */
+
+.odd-number {
+    background-color: #ffc0eb;
+    font-family: Verdana;
+    font-family: DejaVu Sans;
+    font-family: sans-serif;
+}
+
+.three-four {
+    font-size: 24px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.blue-thirty-six {
+    color: #000fff;
+    font-size: 36px;
+}
+
+.four-green {
+    background-color: #7cfc00;    
+}
